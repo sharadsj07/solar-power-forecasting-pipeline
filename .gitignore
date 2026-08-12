@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.env
+data/
+hadoop/
+logs/
+checkpoints/
+.sparkStaging/
+.vscode/
+.idea/
+derby.log
+models/
